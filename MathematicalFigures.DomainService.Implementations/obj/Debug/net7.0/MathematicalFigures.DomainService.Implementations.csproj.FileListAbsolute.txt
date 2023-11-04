@@ -1,0 +1,17 @@
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.DomainService.Implementations.deps.json
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.DomainService.Implementations.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.DomainService.Implementations.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.Domain.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.DomainService.Interfaces.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.DomainService.Interfaces.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\bin\Debug\net7.0\MathematicalFigures.Domain.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.csproj.AssemblyReference.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.AssemblyInfoInputs.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.AssemblyInfo.cs
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.csproj.CoreCompileInputs.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.csproj.CopyComplete
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\refint\MathematicalFigures.DomainService.Implementations.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\MathematicalFigures.DomainService.Implementations.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.DomainService.Implementations\obj\Debug\net7.0\ref\MathematicalFigures.DomainService.Implementations.dll

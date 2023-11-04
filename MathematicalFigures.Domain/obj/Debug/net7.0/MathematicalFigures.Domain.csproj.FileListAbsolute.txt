@@ -1,0 +1,12 @@
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\bin\Debug\net7.0\MathematicalFigures.Domain.deps.json
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\bin\Debug\net7.0\MathematicalFigures.Domain.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\bin\Debug\net7.0\MathematicalFigures.Domain.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.csproj.AssemblyReference.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.AssemblyInfoInputs.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.AssemblyInfo.cs
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.csproj.CoreCompileInputs.cache
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\refint\MathematicalFigures.Domain.dll
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\MathematicalFigures.Domain.pdb
+Z:\Prj\MathematicalFigures\MathematicalFigures.Domain\obj\Debug\net7.0\ref\MathematicalFigures.Domain.dll

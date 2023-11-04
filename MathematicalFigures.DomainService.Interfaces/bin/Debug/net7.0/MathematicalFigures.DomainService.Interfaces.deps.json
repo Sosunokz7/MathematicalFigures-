@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MathematicalFigures.DomainService.Interfaces/1.0.0": {
+        "dependencies": {
+          "MathematicalFigures.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MathematicalFigures.DomainService.Interfaces.dll": {}
+        }
+      },
+      "MathematicalFigures.Domain/1.0.0": {
+        "runtime": {
+          "MathematicalFigures.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathematicalFigures.DomainService.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathematicalFigures.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

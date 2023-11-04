@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MathematicalFigures.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MathematicalFigures.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathematicalFigures.Domain.dll": {}
+        }
+      },
+      "MathematicalFigures.DomainService.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MathematicalFigures.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MathematicalFigures.DomainService.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathematicalFigures.DomainService.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MathematicalFigures.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MathematicalFigures.Domain/MathematicalFigures.Domain.csproj",
+      "msbuildProject": "../MathematicalFigures.Domain/MathematicalFigures.Domain.csproj"
+    },
+    "MathematicalFigures.DomainService.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../MathematicalFigures.DomainService.Interfaces/MathematicalFigures.DomainService.Interfaces.csproj",
+      "msbuildProject": "../MathematicalFigures.DomainService.Interfaces/MathematicalFigures.DomainService.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MathematicalFigures.DomainService.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Id\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\Prj\\MathematicalFigures\\MathematicalFigures.DomainService.Implementations\\MathematicalFigures.DomainService.Implementations.csproj",
+      "projectName": "MathematicalFigures.DomainService.Implementations",
+      "projectPath": "Z:\\Prj\\MathematicalFigures\\MathematicalFigures.DomainService.Implementations\\MathematicalFigures.DomainService.Implementations.csproj",
+      "packagesPath": "C:\\Users\\Id\\.nuget\\packages\\",
+      "outputPath": "Z:\\Prj\\MathematicalFigures\\MathematicalFigures.DomainService.Implementations\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Id\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "Z:\\Prj\\MathematicalFigures\\MathematicalFigures.DomainService.Interfaces\\MathematicalFigures.DomainService.Interfaces.csproj": {
+              "projectPath": "Z:\\Prj\\MathematicalFigures\\MathematicalFigures.DomainService.Interfaces\\MathematicalFigures.DomainService.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
