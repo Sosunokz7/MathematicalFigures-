@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalFigures.Console", "MathematicalFigures.Console\MathematicalFigures.Console.csproj", "{4D341A8E-DAC3-4819-84ED-183207D7C282}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{BDE3EB20-A968-4588-8B81-4B26E458A775}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B7614B2C-74DF-433B-80BB-5F10C38F4D1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{4511F937-0C87-4B10-8C0E-6D1B72AC14BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalFigures.Domain", "MathematicalFigures.Domain\MathematicalFigures.Domain.csproj", "{B2366A78-8A82-492D-B195-694662F571E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B43EE5D2-D246-4EF2-ACD6-67CD62827C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalFigures.Tests", "MathematicalFigures.Tests\MathematicalFigures.Tests.csproj", "{35D50E97-7BAC-4ADB-BE84-1785B9374DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D341A8E-DAC3-4819-84ED-183207D7C282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D341A8E-DAC3-4819-84ED-183207D7C282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D341A8E-DAC3-4819-84ED-183207D7C282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D341A8E-DAC3-4819-84ED-183207D7C282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2366A78-8A82-492D-B195-694662F571E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2366A78-8A82-492D-B195-694662F571E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2366A78-8A82-492D-B195-694662F571E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2366A78-8A82-492D-B195-694662F571E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D50E97-7BAC-4ADB-BE84-1785B9374DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D50E97-7BAC-4ADB-BE84-1785B9374DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D50E97-7BAC-4ADB-BE84-1785B9374DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D50E97-7BAC-4ADB-BE84-1785B9374DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D341A8E-DAC3-4819-84ED-183207D7C282} = {BDE3EB20-A968-4588-8B81-4B26E458A775}
+		{4511F937-0C87-4B10-8C0E-6D1B72AC14BB} = {B7614B2C-74DF-433B-80BB-5F10C38F4D1D}
+		{B2366A78-8A82-492D-B195-694662F571E4} = {4511F937-0C87-4B10-8C0E-6D1B72AC14BB}
+		{35D50E97-7BAC-4ADB-BE84-1785B9374DB1} = {B43EE5D2-D246-4EF2-ACD6-67CD62827C44}
+	EndGlobalSection
+EndGlobal
